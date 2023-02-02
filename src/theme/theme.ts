@@ -5,8 +5,7 @@ const colors = {
   background_secondary: '#292F3A',
   text_primary: '#F7FAFE',
   text_secondary: '#757E95',
-  light_grey: '#323741', 
-  light_blue: '#1E47AE',
+  light_grey: '#323741',
   dark_blue: '#213469',
 };
 
